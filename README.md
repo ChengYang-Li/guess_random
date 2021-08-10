@@ -5,3 +5,5 @@
 git fetch test
 
 git pull test
+
+git pull test2
