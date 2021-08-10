@@ -4,4 +4,10 @@ add from github
 add from github fetchtest
 add from github fetchtest2
 add from github fetchtest3
+<<<<<<< HEAD
+>>>>>>> origin/fetchtest
+=======
+add from github fetchtest4
+add from github fetchtest5
+add from github fetchtest6
 >>>>>>> origin/fetchtest
